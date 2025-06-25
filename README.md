@@ -106,10 +106,10 @@ Out of **326,876 simulated games**, the following results occurred:
 | Score  | Approx. Odds (1 in N) |
 |--------|-----------------------|
 | 11 pts | 11                    |
-| 12 pts | 59                    |
-| 13 pts | 698                   |
-| 14 pts | 32,688                |
-| 15 pts | —                     |
+| 12 pts | 60                    |
+| 13 pts | 692                   |
+| 14 pts | 21,792                |
+| 15 pts | 3,268,760             |
 
 ---
 
